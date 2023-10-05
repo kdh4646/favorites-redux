@@ -20,5 +20,5 @@
 -->
 
 # 👀 Screenshots
+![image](https://github.com/kdh4646/favorites-redux/assets/71913953/abcb124a-ce79-4946-992d-76172a6bdda6)
 
-<!--![image](https://github.com/kdh4646/class-based-components/assets/71913953/59ffe86c-e5ab-4135-9626-741a48bf9b3c) -->
